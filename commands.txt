@@ -1,0 +1,12 @@
+We create a project using the command:
+<b> mkdir djangotutorial </b>
+We then run a command to bootstrap the django
+<b> django-admin startproject mysite djangotutorial </b>
+We change into the directory djangotutorial using the command:
+<b> cd djangotutorial </b>
+We then run the django development server using the command:
+<b> python manage.py runserver </b>
+We then open the browser and go to http://127.0.0.1:8000/ to see the django welcome page.
+
+
+
